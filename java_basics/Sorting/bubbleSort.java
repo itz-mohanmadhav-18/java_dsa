@@ -1,4 +1,4 @@
-package java_basics.Sorting;
+package java_basics.sorting;
 
 import java.util.Scanner;
 
